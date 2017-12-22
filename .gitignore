@@ -1,1 +1,2 @@
-/erlang/*.beam
+# Ignore every .beam file since we don't need them smh
+**.beam

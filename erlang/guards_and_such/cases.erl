@@ -38,5 +38,5 @@ beachf({celsius, N}) when N >= 20, N =< 45 ->
 beachf(_) ->
   'Avoid the beach'.
 
-% Refer to the 'notes.txt' for the answer to:
+% Refer to the 'README.md' for the answer to:
 % When should we use `if` `case .... of` or functions to do cond. expressions?!
